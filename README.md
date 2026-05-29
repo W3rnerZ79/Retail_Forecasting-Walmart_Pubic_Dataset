@@ -17,3 +17,7 @@ A hands-on project combining predictive data modeling with business intelligence
 * **The Problem:** The trend analysis revealed that the WMA model lags behind sharp seasonal spikes. Because it relies on a strict rolling window, it cannot anticipate sudden demand surges.
 * **The Evidence:** The dashboard's volatility analysis proves that **77.1%** of the model's total forecasting error is concentrated entirely within holiday weeks.
 * **The Fix:** Future iterations will upgrade the Python pipeline to include a holiday indicator multiplier
+
+# 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/zachary-werner-aaaa41310/
+Email: zachcwerner@gmail.com
