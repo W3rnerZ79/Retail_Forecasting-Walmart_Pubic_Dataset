@@ -10,9 +10,6 @@ A hands-on project combining predictive modeling with business intelligence. I u
 The V2 dashboard tracks the performance of the **Memory-Active Forecast** model, highlighting how the integration of historical seasonal multipliers drastically reduces error during high-volatility holiday periods.
 
 ---
-
-## 📉 Model View Breakdown
-
 #### 1. Full Timeline View (All Data)
 * **What it shows:** Displays the entire time-series from 2010 through late 2012. It catches the transition where the model gains "memory" after the first 52 weeks.
 * **Key Visual Trend:** In Jan 2011 (the first major peak), the baseline forecast significantly lags and flattens out behind actual sales. By Jan 2012, the dark blue **Memory-Active Forecast** accurately tracks and captures the massive seasonal spike.
